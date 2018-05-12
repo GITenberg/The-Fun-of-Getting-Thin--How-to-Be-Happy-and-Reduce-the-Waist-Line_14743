@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5660
 description: Title; Contents; Chapter I Fat; Chapter Ii The So-called Cures; Chapter
   Iii Facing The Tissue.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14743#The-Fun-of-Getting-Thin--How-to-Be-Happy-and-Reduce-the-Waist-Line
 gutenberg_issued: '2005-01-20'
 gutenberg_type: Text
 identifiers:

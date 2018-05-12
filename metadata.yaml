@@ -1,0 +1,29 @@
+_repo: The-Fun-of-Getting-Thin--How-to-Be-Happy-and-Reduce-the-Waist-Line_14743
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blythe, Samuel G. (Samuel George)
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '5660'
+    url: http://www.gutenberg.org/2009/agents/5660
+description: Title; Contents; Chapter I Fat; Chapter Ii The So-called Cures; Chapter
+  Iii Facing The Tissue.
+gutenberg_issued: '2005-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14743'
+  lccn: '12011009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Obesity'
+- !lcsh 'Weight loss'
+title: 'The Fun of Getting Thin: How to Be Happy and Reduce the Waist Line'
+url: http://www.gutenberg.org/ebooks/14743
